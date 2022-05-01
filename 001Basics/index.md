@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <title>自学js的第一天</title>
     <style type="text/ccs" >
-        body{background-image:url("picture/1.png");
-
+        body{
+            background-image: url("picture/1.png");
+            background-size: 100% 100%
         }
 </head>
 <body>
